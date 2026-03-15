@@ -56,8 +56,7 @@ advanced-python-calculator
 
 Clone the repository
 
-git clone https://github.com/YOURUSERNAME/advanced-python-calculator.git
-
+git clone https://github.com/bhanu277/Advanced-Python-CLI-Calculator
 Navigate to the project folder
 
 cd advanced-python-calculator
